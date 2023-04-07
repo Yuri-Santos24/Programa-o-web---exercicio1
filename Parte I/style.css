@@ -1,0 +1,54 @@
+*{
+    font-family: sans-serif;
+}
+
+.cabe{
+    background-color: rgb(177, 175, 175);
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.pre{
+    font-size: 25px;
+}
+
+.envi{
+    text-transform: uppercase;
+    color: gray;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.deta{
+    text-transform: uppercase;
+}
+
+a:hover{
+    color: blue;
+} 
+
+a:link{
+    color: black;
+}
+
+/* a:visited{
+    color: red;
+} se for descomentado o link logo transforma em vermelho o que deveria acontecer somente se fosse clicado pelo menos 1x*/ 
+
+.btt{
+    text-transform: uppercase;
+    background-color: black;
+    color: white;
+}
+
+/* button:active{
+    color: red;
+}*/
+
+button:hover{
+    color: blue;
+}
+
+.cont{
+    border: solid 3px;
+}
